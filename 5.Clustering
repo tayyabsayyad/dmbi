@@ -1,1 +1,24 @@
 1. What is hierarchical cleastering ? Explain any two techniques for finding distance between the clusters in hierarchical clustering ?
+
+
+2. Use any hierarchical clustering algorithm to cluster the following 8 examples into three clusters 
+
+A1 = (2,10)
+A2 = (2,5)
+A3 = (8,4)
+A4 = (5,8)
+A5 = (7,5)
+A6 = (6,4)
+A7 = (1,2)
+A8 = (4,9)
+
+
+3. Clearly explain the DBSCAN algorithm using appropriate algorithms.
+
+4. Explain BIRCH algorithm with example 
+
+5. What is clustering ? Explain k-means clustering alogrithm. Suppose the data for clustering 
+    { 2, 4, 10, 12, 3, 20, 11, 25 } consider k = 2, cluster the given data using above algorithm.
+
+
+6. 
