@@ -1,0 +1,8 @@
+1. What is Data Preprocessing ? Explain different methods for Data cleansing phase.
+
+2. Partition the given the data into 4 bins using eqi-dept binning method and perform smoothing according to the folowing methods.
+Smoothing by bin means
+Smoothing by bin median
+Smoothing by bin boundries
+
+Data : 11, 13, 13,  15, 15, 16, 19, 20, 20, 20, 21, 21, 22, 23, 24, 30, 40, 45, 45, 45, 71, 72, 73, 75

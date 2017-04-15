@@ -1,0 +1,6 @@
+1. A table below shows a sample dataset of whether a customer responds to the survey or not. “Outcome” is a class label. Construct a Decision tree classifier for the dataset. For a new example ( Rural, semidetached, low, No)  what will be the predicted class.
+
+LINK TABLE 4.1
+
+
+2. Brifly explain Bagging and Boosting of the Classfiers

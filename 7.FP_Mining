@@ -1,0 +1,5 @@
+1.Use Apriori algorithm to identify the frequent item-set in the following database. Then extract the strong association rules from these sets
+
+Min Support = 30.  Min Confidence = 75 %
+
+ LINK 7.1
