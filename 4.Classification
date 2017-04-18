@@ -8,3 +8,22 @@ https://github.com/tayyabsayyad/dmbi/blob/master/Images/Table_4.1.png4
 3. Define Classification, Issues of Classification and Explain ID3 classfication with example.
 
 
+4. Explain different methods that can be used to evaluate and compare accuracy of different classfication algorthms.
+
+
+5. Use any classification techniques and find out the class of (Homeowner = Yes, Status = Employed , Income = Average)
+
+ID,Homeowner,Status,Income, Defaulted
+1,Yes,Employed,High,No,
+2,No,Business,Average,NO
+3,No,Employed,Low,No
+4,Yes,Business,High,No
+5,No,Unemployed,Average,Yes
+6,No,Business,Low,No
+7,Yes,Unemployed,High,No
+8,No,Employed,Average,Yes
+9,No,Business,Low,No
+10,No,Employed,Average,Yes
+
+
+

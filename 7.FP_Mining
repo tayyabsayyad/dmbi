@@ -9,4 +9,20 @@ Min Support = 30.  Min Confidence = 75 %
 
 3. Explain sequence mining in the transactional database.
 
+4. Consider the following transaction database.
 
+TID	ITEMS
+01,	A,B,C,D
+02, 	A,B,C,D,E,G
+03,	A,C,G,H,K
+04,	B,C,D,E,K
+05	D,E,F,H,L
+06	A,B,C,D,L	
+07	B,I,E,K,L
+08	A,B,D,E,K
+09	A,E,F,H,L
+10	B,C,D,F
+
+Apply apriory algorithm with the minimum support of 30% and minimum confidance of 70% and find all the accociation rules in the database.
+
+	

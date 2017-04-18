@@ -1,4 +1,5 @@
 1. What is Data Preprocessing ? Explain different methods for Data cleansing phase.
+
 2. Why data preprocessing is required ? Explain different steps involved in the data preprocessing.
 
 3. Partition the given the data into 4 bins using eqi-dept binning method and perform smoothing according to the folowing methods.

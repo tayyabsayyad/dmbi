@@ -21,4 +21,10 @@ A8 = (4,9)
     { 2, 4, 10, 12, 3, 20, 11, 25 } consider k = 2, cluster the given data using above algorithm.
 
 
-6. 
+6. Use k-means to cluster the following data into 3 clusters.
+
+Protin and Fat (20,9), (21,9), (15,7), (22,17), (20,8), (25,12), (26,14), (20,9), (18,9), (20,9) 
+
+ 
+
+
