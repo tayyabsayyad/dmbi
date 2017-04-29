@@ -1,4 +1,4 @@
-Questions these are few questions
+These are few questions which we normally ask in DBMI.
 
 What is data mining ?
 
