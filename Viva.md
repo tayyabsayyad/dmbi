@@ -140,20 +140,22 @@ How to increase the classification accuracy ?
 
 **What is random forest ?**
 
-Random forests or random decision forests[1][2] are an ensemble learning method for classification, regression and other tasks, that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks, that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees
 
 
 **How K-means clustering algorithms works ?**
 
 The Lloyd's algorithm, mostly known as k-means algorithm, is used to solve the k-means clustering problem and works as follows. 
-    First, decide the number of clusters k. Then: 
-         1.Initialize the center of the clusters.
-         2.Attribute the closest cluster to each data point.
-         3.Set the position of each cluster to the mean of all data points belonging to that cluster.
-         4.Repeat steps 2-3 until convergence
+First, decide the number of clusters k. Then: 
+
+   1.Initialize the center of the clusters.
+   2.Attribute the closest cluster to each data point.
+   3.Set the position of each cluster to the mean of all data points belonging to that cluster.
+   4.Repeat steps 2-3 until convergence
          
-         Deciding the number of clusters:
-                The number of clusters should match the data. An incorrect choice of the number of clusters will invalidate the whole process. An empirical way to find the best number of clusters is to try K-means clustering with different number of clusters and measure the resulting sum of squares.
+  Deciding the number of clusters:
+  
+ The number of clusters should match the data. An incorrect choice of the number of clusters will invalidate the whole   process. An empirical way to find the best number of clusters is to try K-means clustering with different number of clusters and measure the resulting sum of squares.
 
 The most curious can look at this paper for a benchmarking of 30 procedures for estimating the number of clusters
 
