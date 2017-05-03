@@ -1,6 +1,7 @@
 These are few questions which we normally ask in DBMI.
 
 What is data mining ?
+Data mining is a process of discovering interesting patterns from huge amounts of data.
 
 Is data mining a hype ?
 
