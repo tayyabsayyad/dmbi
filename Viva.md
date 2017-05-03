@@ -42,7 +42,16 @@ Can you draw box plot of given data ?
 
 What is five number summary ?
 The five-number summary is a set of descriptive statistics that provide information about a dataset. It consists of the five most important sample percentiles: the sample minimum (smallest observation) the lower quartile or first quartile,mean,third quartile and maximum.
-What are the data mining applications ?
+
+**What are the data mining applications ?**
+Here is the list of areas where data mining is widely used −
+
+Financial Data Analysis
+Retail Industry
+Telecommunication Industry
+Biological Data Analysis
+Other Scientific Applications
+Intrusion Detection
 
 Can you explain how data mining is used in droid detection ?
 
