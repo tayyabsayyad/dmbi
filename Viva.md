@@ -27,6 +27,7 @@ What are different methods of detecting outliers ?
 Are their any applications detecting of outliers ?
 
 What is data exploration ?
+Data exploration is the first step in data analysis and typically involves summarizing the main characteristics of a dataset. It is commonly conducted using visual analytics tools, but can also be done in more advanced statistical software, such as R.
 
 Can you draw box plot of given data ?
 
@@ -114,7 +115,6 @@ What is multiple liner regression ?
 How to increase the classification accuracy ?
 
 What is random forest ?
-Random forests or random decision forests[1][2] are an ensemble learning method for classification, regression and other tasks, that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees
 
 How K-means clustering algorithms works ?
 
