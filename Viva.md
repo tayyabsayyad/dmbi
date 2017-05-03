@@ -57,6 +57,11 @@ What is binning ? 3 methods ? Why we do that ?
 What is classification ?
 
 What is clustering ?
+Clustering analyzes data objects without consulting a known class label. The objects are clustered
+or grouped based on the principle of maximizing the intraclass similarity and minimizing the interclass
+similarity. Each cluster that is formed can be viewed as a class of objects. Clustering can also facilitate
+taxonomy formation, that is, the organization of observations into a hierarchy of classes that group
+similar events together.
 
 What is frequent data mining ?
 
