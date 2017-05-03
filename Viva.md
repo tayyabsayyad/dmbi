@@ -123,6 +123,7 @@ Regression is a statistical measure used in finance, investing and other discipl
 
 
 What is multiple liner regression ?
+Multiple linear regression is the most common form of linear regression analysis.  As a predictive analysis, the multiple linear regression is used to explain the relationship between one continuous dependent variable and two or more independent variables.  The independent variables can be continuous or categorical (dummy coded as appropriate).
 
 How to increase the classification accuracy ?
 
