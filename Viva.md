@@ -13,8 +13,9 @@ Is data mining a hype ?
 It is subfield of comuter science that focuses on getting computer to act without being explicitly programmed.It focuses on the development of computer program that can change when exposed to new data.
 
 What is data preprocessing ?
-
+Data preprocessing is a data mining technique that involves transforming raw data into an understandable format. Real-world data is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors. Data preprocessing is a proven method of resolving such issues.
 Why we need to to preprocess the data ?
+Real-world data is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors. Data preprocessing is a proven method of resolving such issues.
 
 **What is consequence of having a data outliers ?**
 An outliers is a value that is very different from the other data in your data set.This can skew your results.
@@ -27,11 +28,11 @@ What are different methods of detecting outliers ?
 Are their any applications detecting of outliers ?
 
 What is data exploration ?
-
+Data exploration is the first step in data analysis and typically involves summarizing the main characteristics of a dataset. It is commonly conducted using visual analytics tools, 
 Can you draw box plot of given data ?
 
 What is five number summary ?
-
+The five-number summary is a set of descriptive statistics that provide information about a dataset. It consists of the five most important sample percentiles: the sample minimum (smallest observation) the lower quartile or first quartile,mean,third quartile and maximum.
 What are the data mining applications ?
 
 Can you explain how data mining is used in droid detection ?
