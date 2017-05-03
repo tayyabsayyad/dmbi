@@ -7,8 +7,9 @@ Or it can be defined as
 Data mining is a process of discovering interesting patterns from huge amounts of data.
 
 
-Is data mining a hype ?
-No, it is not a hype. It is the consequence of emergence of huge amounts of data and the dire need for turning such data into knowledge. Rapid growth and advancements in IT sector and computer science led to the coining of a process called Data mining.If you're a Facebook user, just look to the right and notice that all the advertisements seem to be things you've either recently looked at while shopping on various sites. Or maybe your political preferences are reflected.
+**Is data mining a hype ?**
+
+It's definitely not hype.On the contrary, Data mining considered to be an output of the growing information technologies. As the need of transferring the huge amounts of data into useful patterns of knowledge is increasing, on the other hand the need of data mining is automatically arisen too.If you're a Facebook user, just look to the right and notice that all the advertisements seem to be things you've either recently looked at while shopping on various sites. Or maybe your political preferences are reflected. 
 
 
 **What is Machine Learning ?**
