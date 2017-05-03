@@ -1,7 +1,11 @@
 These are few questions which we normally ask in DBMI.
 
 What is data mining ?
+
 Data Mining is a computational process of discovering patterns in large data sets involving methods at the intersection of artificial intelligence, machine learning, statistics and database system.
+Or it can be defined as 
+Data mining is a process of discovering interesting patterns from huge amounts of data.
+
 
 Is data mining a hype ?
 
@@ -39,8 +43,26 @@ Explain data mining application for CRM ?
 Explain how data mining can be used in medical industry ?
 
 Explain data preprocessing steps ?
+. Data Cleaning: Clean the data by filling in missing values, smoothening noisy data, identifying and
+removing outliers and inconsistencies.
+b. Data Integration: Data analysis involves integrating multiple databases, data cubes or files to
+obtain consolidated data. Before any data is used, integration problems such as naming
+inconsistencies, data type conflicts, redundancy and so on must be resolved.
+c. Data Reduction: Obtains a reduced representation of the dataset that is much smaller in volume,
+and yet produces same analytical results.
+d. Data Transformation: Data is transformed or consolidated into formats appropriate for mining.
+
 
 What are the main tasks of data mining ?
+. Characterization
+b. Discrimination
+c. Association and Correlation Analysis
+d. Classification
+e. Prediction
+f. Clustering
+g. Outlier Analysis
+h. Evolution Analysis
+
 
 What is data visualisation ?
 
