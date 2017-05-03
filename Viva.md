@@ -117,6 +117,8 @@ What's is info gain ?
 What is naive based Classifier ?
 
 What is regression ?
+Regression is a statistical measure used in finance, investing and other disciplines that attempts to determine the strength of the relationship between one dependent variable (usually denoted by Y) and a series of other changing variables (known as independent variables). 
+
 
 What is multiple liner regression ?
 
