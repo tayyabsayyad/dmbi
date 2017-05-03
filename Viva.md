@@ -76,6 +76,12 @@ What is data normalisation ?
 What is cleaning ?
 
 How to handle missing values in data ?
+Ignore the tuple
+Fill the values manually
+Use a global constant to fill the missing value
+Use a measure of central tendency for the attribute.
+Use the attribute mean or median for all samples belonging to the same class as the given tuple
+Use the most probable value to fill in the missing value
 
 What is data discretisation ?
 
