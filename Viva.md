@@ -71,6 +71,8 @@ h. Evolution Analysis
 
 What is data visualisation ?
 
+Data visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed.
+
 What is dat reduction ?
 
 When we use histogram?
