@@ -128,6 +128,55 @@ How to identify k efficiently ?
 What are the problems in hierarchical clustering methods ?
 
 Explain three methods of clustering ? How they work ?
+Explain three methods of clustering?
+
+Partitioning methods: Given a databases of n objects or data tuples, a partitioning methods constructs k partitions of data, 
+where each partition represents a cluster and k · n. Given k, the number of partitions to construct, it creates an initial 
+partitioning. It then uses an iterative relocation technique that attempts to improve the partitioning by moving objects from 
+one group to another. The general criterion of a good partitioning is that objects in the same cluster are \close" or related 
+to each other, whereas objects of di®erent clusters are \far apart". The k-means algorithm is a commonly used partitioning method.
+
+Hierarchical methods: A hierarchical method creates a hierarchical decomposition of the given set of data objects. It can be 
+either agglomerative or divisive. The agglomerative (bottom-up) approach starts with each object forming a separate group. 
+It successively merges the objects that are close to one another, until all of the groups are merged into one, or until a termination 
+condition holds. The divisive (top-down) approach starts with all of the objects in the same cluster. In each successive iteration, a 
+cluster is split up into smaller clusters, until eventually each object forms its own cluster or until a termination condition holds. 
+AGNES and DIANA are examples of hierarchical clustering. BIRCH integrates hierarchical clustering with iterative (distance-based) 
+relocation.
+
+Density-based methods: These methods are based on the notion of density. The main idea is to continue growing a given cluster as 
+long as the density in its \neighborhood" exceeds some threshold. That is, for each data point within a given cluster, the neighborhood 
+of a given radius has to contain at least a minimum number of points. This method can be used to ¯lter out noise and discover clusters 
+of arbitrary shape. DBSCAN and OPTICS are typical examples of density-based clustering.
+
+Grid-based methods: Such methods quantize the object space into a ¯nite number of cells that form a grid structure. All of the 
+clustering operations are performed on the grid structure. The main advantage of this approach is its fast processing time, 
+which is typically independent of the number of data objects and dependent only on the number of cells in each dimension in the 
+quantized space. STING is an example of grid-based clustering.
+
+Model-based methods: This approach hypothesizes a model for each of the clusters and finds the best ¯t of the data to the given model. 
+A model-based algorithm may locate clusters by constructing a density function that re°ects the spatial distribution of the data points. 
+It also leads to a way of automatically determining the number of clusters based on standard statistics. It takes \noise" or outliers 
+into account, therein contributing to the robustness of the approach. COBWEB and self-organizing feature maps are examples of 
+model-based clustering.
+
+Methods for high-dimensional data: High-dimensional data can typically have many irrelevant dimensions. As the dimensionality increases, 
+the data usually become increasingly sparse because the data points are likely located in di®erent dimensional subspaces. The distance 
+measurement between pairs of points become meaningless and the average density of points anywhere in the data is likely to be low.
+Distance- and density-based clustering methods are therefore ine®ective for clustering high- dimensional data. Alternative approaches 
+have been proposed, such as subspace clustering methods, which search for clusters in subspaces (or subsets of dimensions) of the data, 
+rather than over the entire data space. CLIQUE and PROCLUS are examples of subspace clustering methods. Frequent pattern-based 
+clustering is another clustering methodology, which extracts distinct frequent patterns among subsets of dimensions that occur 
+frequently. pCluster is an example of frequent pattern-based clustering that groups objects based on their pattern similarity.
+
+Constraint-based methods: These perform clustering by incorporating user-speci¯ed or application oriented constraints. A constraint 
+can express a user's expectation or describe \properties" of the desired clustering results, and provides an e®ective means for 
+communicating with the clustering process. Constraint-based methods are used in spatial clustering for clustering with obstacle 
+objects (e.g., considering obstacles such as rivers and highways when planning the placement of automated banking machines) and 
+user-constrained cluster analysis (e.g, considering speci¯c constraints regarding customer groups when determining the best 
+location for a new service station, such as ``must serve at least 100 high-value customers"). In addition, semi-supervised 
+clustering employs, for example, pairwise constraints (such as pairs of instances labeled as belonging to the same or different 
+clusters) in order to improve the quality of the resulting clustering.
 
 What is supervised and unsupervised learning ?
 
